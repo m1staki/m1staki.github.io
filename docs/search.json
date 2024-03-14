@@ -16,16 +16,16 @@
   {
     "objectID": "blog/Project2/index.html",
     "href": "blog/Project2/index.html",
-    "title": "This is Project 2",
+    "title": "Project 2",
     "section": "",
-    "text": "This is Project 2\nThis is a placeholder"
+    "text": "I cleaned some data!\n\n\n\nI analyzed the data!\n\nlibrary(tidyverse)\nmtcars |&gt;\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point()"
   },
   {
     "objectID": "blog/Project1/index.html",
     "href": "blog/Project1/index.html",
     "title": "Project 1",
     "section": "",
-    "text": "I cleaned some data!\n\n\n\nI analyzed the data!\n’’’{r} #| message: false\nlibrary(tidyverse) mtcars |&gt; ggplot"
+    "text": "This website is basically my first project! It was created using R and Git.\n\n\n\nSpecial thanks to Prof Dan from MGT 100 at UCSD for teaching me how to create this!"
   },
   {
     "objectID": "blog/Project1/index.html#section-1-data",
@@ -39,14 +39,14 @@
     "href": "blog/Project1/index.html#section-2-analysis",
     "title": "Project 1",
     "section": "",
-    "text": "I analyzed the data!\n’’’{r} #| message: false\nlibrary(tidyverse) mtcars |&gt; ggplot"
+    "text": "I analyzed the data!\n\nlibrary(tidyverse)\nmtcars |&gt;\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point()"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "My Projects",
     "section": "",
-    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is Project 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume/Mia Morales R resume.html",
@@ -117,5 +117,33 @@
     "title": "Mia Morales’ Resume",
     "section": "Selected Publications and Posters",
     "text": "Selected Publications and Posters\n\nGenetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.\nPoster for 2013 International Conference of Genomics\nQingdao, China\n2014\nYu L, Chen B, Zhang Z.\n\n\nESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.\nJ Cell Sci. 2016 May 15;129(10):2075-84.\nN/A\n2016\nSheng Z, Yu L, Zhang T, Pei X, Li X, Zhang Z and Du W."
+  },
+  {
+    "objectID": "blog/Project1/index.html#section-1-intro",
+    "href": "blog/Project1/index.html#section-1-intro",
+    "title": "Project 1",
+    "section": "",
+    "text": "This website is basically my first project! It was created using R and Git."
+  },
+  {
+    "objectID": "blog/Project1/index.html#section-2-thanks",
+    "href": "blog/Project1/index.html#section-2-thanks",
+    "title": "Project 1",
+    "section": "",
+    "text": "Special thanks to Prof Dan from MGT 100 at UCSD for teaching me how to create this!"
+  },
+  {
+    "objectID": "blog/Project2/index.html#section-1-data",
+    "href": "blog/Project2/index.html#section-1-data",
+    "title": "Project 2",
+    "section": "",
+    "text": "I cleaned some data!"
+  },
+  {
+    "objectID": "blog/Project2/index.html#section-2-analysis",
+    "href": "blog/Project2/index.html#section-2-analysis",
+    "title": "Project 2",
+    "section": "",
+    "text": "I analyzed the data!\n\nlibrary(tidyverse)\nmtcars |&gt;\n  ggplot(aes(x = wt, y = mpg)) +\n  geom_point()"
   }
 ]

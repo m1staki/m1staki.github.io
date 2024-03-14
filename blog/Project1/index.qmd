@@ -1,16 +1,9 @@
 # Project 1
 
-## Section 1: Data
+## Section 1: Intro
 
-I cleaned some data!
+This website is basically my first project! It was created using R and Git.
 
-## Section 2: Analysis
+## Section 2: Thanks
 
-I analyzed the data!
-
-'''{r}
-#| message: false
-
-library(tidyverse)
-mtcars |>
-  ggplot
+Special thanks to Prof Dan from MGT 100 at UCSD for teaching me how to create this! :)
