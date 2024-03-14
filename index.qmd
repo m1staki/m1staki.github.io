@@ -1,0 +1,16 @@
+---
+title: "Mia Morales"
+image: "images/me.jpg"
+about: 
+  template: jolla
+  links: 
+    - icon: envelope
+      href: mailto:mnmorales1219@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/mia-morales-b90173243/
+     
+---
+
+Hi my name is Mia! 
+I'm a current Junior at UCSD who is studying Business Economics and minoring in Psychology :)
+

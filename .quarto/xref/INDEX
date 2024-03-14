@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "391d0485"
+  },
+  "about.qmd": {
+    "about.html": "78b04be4"
+  },
+  "resume.qmd": {
+    "resume.html": "a215a93d"
+  },
+  "resume/Mia Morales R resume.Rmd": {
+    "Mia Morales R resume.html": "a317b768"
+  },
+  "blog.qmd": {
+    "blog.html": "603dca83"
+  },
+  "blog/Project1/index.qmd": {
+    "index.html": "5fcda1a5"
+  },
+  "blog/Project2/index.qmd": {
+    "index.html": "1263bfda"
+  }
+}
