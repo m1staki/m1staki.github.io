@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/resume.pdf\"&gt;Download PDF&lt;/a&gt;"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mia Morales",
@@ -7,11 +14,39 @@
     "text": "Hi my name is Mia! I’m a current Junior at UCSD who is studying Business Economics and minoring in Psychology :)"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "blog/Project2/index.html",
+    "href": "blog/Project2/index.html",
+    "title": "This is Project 2",
     "section": "",
-    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume/resume.pdf\"&gt;Download PDF&lt;/a&gt;"
+    "text": "This is Project 2\nThis is a placeholder"
+  },
+  {
+    "objectID": "blog/Project1/index.html",
+    "href": "blog/Project1/index.html",
+    "title": "Project 1",
+    "section": "",
+    "text": "I cleaned some data!\n\n\n\nI analyzed the data!\n’’’{r} #| message: false\nlibrary(tidyverse) mtcars |&gt; ggplot"
+  },
+  {
+    "objectID": "blog/Project1/index.html#section-1-data",
+    "href": "blog/Project1/index.html#section-1-data",
+    "title": "Project 1",
+    "section": "",
+    "text": "I cleaned some data!"
+  },
+  {
+    "objectID": "blog/Project1/index.html#section-2-analysis",
+    "href": "blog/Project1/index.html#section-2-analysis",
+    "title": "Project 1",
+    "section": "",
+    "text": "I analyzed the data!\n’’’{r} #| message: false\nlibrary(tidyverse) mtcars |&gt; ggplot"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Projects",
+    "section": "",
+    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThis is Project 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resume/Mia Morales R resume.html",
@@ -82,26 +117,5 @@
     "title": "Mia Morales’ Resume",
     "section": "Selected Publications and Posters",
     "text": "Selected Publications and Posters\n\nGenetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.\nPoster for 2013 International Conference of Genomics\nQingdao, China\n2014\nYu L, Chen B, Zhang Z.\n\n\nESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.\nJ Cell Sci. 2016 May 15;129(10):2075-84.\nN/A\n2016\nSheng Z, Yu L, Zhang T, Pei X, Li X, Zhang Z and Du W."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "My Projects",
-    "section": "",
-    "text": "Project 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog/Project1/index.html",
-    "href": "blog/Project1/index.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "This website is basically my first project :D"
-  },
-  {
-    "objectID": "blog/Project1/index.html#section-1-description",
-    "href": "blog/Project1/index.html#section-1-description",
-    "title": "Project 1",
-    "section": "",
-    "text": "This website is basically my first project :D"
   }
 ]
